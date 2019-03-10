@@ -1,0 +1,1 @@
+console.error("Error: Plugin/Preset files are not allowed to export objects, only functions. In /home/cslab/imyke/ninja/skltn/node_modules/babel-preset-react/lib/index.js while parsing file: /home/cslab/imyke/ninja/skltn/src/main.jsx");
