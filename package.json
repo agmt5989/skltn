@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/agmt5989/skltn/issues"
   },
-  "homepage": "https://github.com/agmt5989/skltn#readme"
+  "homepage": "https://github.com/agmt5989/skltn#readme",
+  "dependencies": {
+    "babel-preset-react": "^6.24.1",
+    "babelify": "^10.0.0",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "watchify": "^3.11.1"
+  }
 }
